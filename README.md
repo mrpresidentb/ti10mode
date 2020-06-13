@@ -20,10 +20,15 @@ FAQ
 4. Мод заменяет обычные (базовые) модели карты, башен, снаряжения героя на карту, башни, арканы из боевого пропуска TI10.
 5. После обновления игры, вам нужно будет скачать мод вновь, после того, как я обновлю его тут. Или удалить его, в случае, если игра не запускается.
 6. Как удалить мод? - В папке "dota 2 beta\game\dota" удалите файл gameinfo.gi и проверьте целостность файлов игры (Клик правой кнопки мыши на Dota 2 в клиенте Steam, далее "Свойства" -> "Локальные файлы" -> "Проверить целостность файлов игры..."
+
 ИЛИ
+
 Откройте файл gameinfo.gi с помощью блокнота в папке "dota 2 beta\game\dota" и закомментируйте (поставьте два слеша) на соответствующий строках, чтобы выглядело так:
+
 //Game                dota2ti10
+
 //Mod                 dota2ti10
+
 7. Игра обновилась и не запускается, что делать? Удалите мод навремя, читайте выше.
 
 
@@ -48,12 +53,19 @@ FAQ:
 4. Current mod will replace your default towers, default terrain, default hero equipment.
 5. Each time after game update you need to replace mod again, after I will update it here.
 6. How to delete the mod? - Go to "dota 2 beta\game\dota" and delete gameinfo.gi file. After that go to steam, right click on the Dota 2 - Properties - Local files -  Click button "Verify integrity of game files ..." . 
+
 OR
+
 Edit "gameinfo.gi" file. Put // before dota2ti10 strings, so it will looks like this:
+
 //Game                dota2ti10
+
 //Mod                 dota2ti10
+
 7. Game has been updated. Can't launch the game. Read №6 and wait for mod update. Just block some strings in gameinfo.gi in dota 2 beta\game\dota" folder:
+
 //Game                dota2ti10
+
 //Mod                 dota2ti10
 
 ===
