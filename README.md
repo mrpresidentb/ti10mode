@@ -2,6 +2,16 @@
 Battle Pass mode (all rewards available)
 Read description (Russian and English)
 
+===
+Download link:
+https://drive.google.com/drive/folders/1Ca9nWe0CfB4TgBtfbUKN3cPTlizDdVnX
+
+Скачать:
+https://drive.google.com/drive/folders/1Ca9nWe0CfB4TgBtfbUKN3cPTlizDdVnX
+
+===
+
+
 Russian
 ===
 Используйте мод на свой страх и риск!
