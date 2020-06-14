@@ -2,6 +2,10 @@
 Battle Pass mode (all rewards available)
 Read description (Russian and English)
 
+
+https://www.youtube.com/watch?v=vo-RUWo8vCs
+
+
 ===
 
 Download link:
